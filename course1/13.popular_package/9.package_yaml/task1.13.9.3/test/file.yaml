@@ -1,0 +1,9 @@
+- name: Азамат
+  age: 23
+  comments:
+  - text: Первый комментарий
+  - text: Второй комментарий
+- name: Алмаз
+  age: 15
+  comments:
+  - text: Комментарий
